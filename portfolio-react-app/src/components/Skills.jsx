@@ -3,8 +3,14 @@ import HTML from "../assets/html.png"
 import CSS from "../assets/css.png"
 import JavaScript from "../assets/javascript.png"
 import ReactImg from "../assets/react.png"
-import FireBase from "../assets/firebase.png"
+import Sql from "../assets/sql.png"
 import Git from "../assets/github.png"
+import Node from "../assets/node.png"
+import Python from "../assets/python.png"
+import Django from "../assets/django.png"
+import Flask from "../assets/flask.png"
+import Mongo from "../assets/mongo.png"
+import Firebase from "../assets/firebase.png"
 
 const Skills = () => {
   return (
@@ -31,22 +37,46 @@ const Skills = () => {
                     <p className="my-4">Javascript</p>
                 </div>
                 <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                    <img className="w-20 mx-auto mt-4" src={Git} alt="YO" />
-                    <p className="my-4">Git</p>
+                    <img className="w-20 mx-auto mt-4" src={Python} alt="YO" />
+                    <p className="my-4">Python</p>
                 </div>
                 <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                    <img className="w-20 mx-auto mt-4" src={FireBase} alt="YO" />
-                    <p className="my-4">Firebase</p>
+                    <img className="w-20 mx-auto mt-4" src={Django} alt="YO" />
+                    <p className="my-4">Django</p>
+                </div>
+                <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                    <img className="w-20 mx-auto mt-4" src={Node} alt="YO" />
+                    <p className="my-4">Node.js</p>
+                </div>
+                <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                    <img className="w-20 mx-auto mt-4" src={Flask} alt="YO" />
+                    <p className="my-4">Flask</p>
                 </div>
                 <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                     <img className="w-20 mx-auto mt-4" src={ReactImg} alt="YO" />
                     <p className="my-4">React</p>
                 </div>
+                <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                    <img className="w-20 mx-auto mt-4" src={Git} alt="YO" />
+                    <p className="my-4">Git</p>
+                </div>
+                <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                    <img className="w-20 mx-auto mt-4" src={Sql} alt="YO" />
+                    <p className="my-4">Sql</p>
+                </div>
+                <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                    <img className="w-20 mx-auto mt-4" src={Mongo} alt="YO" />
+                    <p className="my-4">MongoDB</p>
+                </div>
+                <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                    <img className="w-20 mx-auto mt-4" src={Firebase} alt="YO" />
+                    <p className="my-4">Firebase</p>
+                </div>
+                
             </div>
-
         </div>
     </div>
-  )
+  );
 }
 
 export default Skills
