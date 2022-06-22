@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { FaBars, FaTimes, FaGithub, FaLinkedin} from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi"
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import Logo from "../assets/logo.png";
+import Logo from "../assets/logo3.png";
 import { Link } from 'react-scroll'
 
 const Navbar = () => {
@@ -70,7 +70,7 @@ const Navbar = () => {
         <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
             <ul>
                 <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
-                    <a className="flex justify-between items-center w-full text-gray-300"href="https://www.linkedin.com/">
+                    <a className="flex justify-between items-center w-full text-gray-300"href="https://www.linkedin.com/in/kobi-tremble-0b1a26186/">
                         Linkedin <FaLinkedin size={30}/>
                     </a>
                 </li>
@@ -80,7 +80,7 @@ const Navbar = () => {
                     </a>
                 </li>
                 <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
-                    <a className="flex justify-between items-center w-full text-gray-300"href="/">
+                    <a className="flex justify-between items-center w-full text-gray-300"href="mailto://KobiLTrem@gmail.com">
                         Email <HiOutlineMail size={30}/>
                     </a>
                 </li>
