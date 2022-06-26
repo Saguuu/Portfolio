@@ -21,7 +21,7 @@ const Work = () => {
                             Network
                         </span>
                         <div className="pt-8 text-center">
-                            <a href="https://xennetwork.herokuapp.com//">
+                            <a href="https://xennetwork.herokuapp.com/">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-pink-600 hover:border-pink-600">Demo</button>
                             </a>
                             <a href="https://github.com/Saguuu/Network">
