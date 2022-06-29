@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b1cad4da.css",
-    "main.js": "/Portfolio/static/js/main.36e500af.js",
+    "main.js": "/Portfolio/static/js/main.cc85f429.js",
     "static/media/xenpass.png": "/Portfolio/static/media/xenpass.d8203505be51de077cfc.png",
     "static/media/xennetwork.png": "/Portfolio/static/media/xennetwork.70b49cb9a0e6f2fa8833.png",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.24f85cb8db4877d37da0.pdf",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.1bba818c8740bc0da269.pdf",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/logo3.png": "/Portfolio/static/media/logo3.3219345fa124dd4d8b76.png",
     "static/media/flask.png": "/Portfolio/static/media/flask.d401dce93f8c827039aa.png",
@@ -17,10 +17,10 @@
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
     "main.b1cad4da.css.map": "/Portfolio/static/css/main.b1cad4da.css.map",
-    "main.36e500af.js.map": "/Portfolio/static/js/main.36e500af.js.map"
+    "main.cc85f429.js.map": "/Portfolio/static/js/main.cc85f429.js.map"
   },
   "entrypoints": [
     "static/css/main.b1cad4da.css",
-    "static/js/main.36e500af.js"
+    "static/js/main.cc85f429.js"
   ]
 }
